@@ -101,6 +101,7 @@ These findings can contribute to **safer prescriptions**, **better healthcare de
 
 * Incorporate sentiment analysis on user reviews
 * Integrate a recommendation system for safer drug alternatives
-* Develop an interactive dashboard using Plotly or Streamlit
+
+  *Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//shaneela-anjum/)*
 
 ---
